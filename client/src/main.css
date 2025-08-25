@@ -1,0 +1,6 @@
+h2{
+    font-size: 26px !important;
+}
+.collapse:not(.show) {
+    display: flex;
+}

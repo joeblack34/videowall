@@ -1,0 +1,85 @@
+* {
+    font-size: 14px;
+}
+
+.active{
+    box-shadow: none !important;
+}
+
+/* .btn-outline-success:not(:disabled):not(.disabled).active:focus, .btn-outline-success:not(:disabled):not(.disabled):active:focus, .show>.btn-outline-success.dropdown-toggle:focus {
+    box-shadow: none !important;
+}
+.btn-outline-success.focus, .btn-outline-success:focus {
+    box-shadow: none !important;
+} */
+
+
+table {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.image {
+    width: 100%;
+}
+
+.video {
+    width: 100%;
+    vertical-align: middle;
+}
+
+td {
+    border: 1px solid rgb(182, 179, 179);
+    text-align: center;
+}
+
+.prew {
+    padding: 0;
+    width: 200px;
+}
+
+.file {
+    float: left;
+    margin-left: 20px;
+}
+
+
+.text {
+    float: left;
+    margin-left: 20px;
+    margin-top: 5px;
+    width: 400px;
+}
+
+.delete {
+    padding: 10px;
+}
+
+td.play {
+    width: 70px;
+    padding: 10px;
+}
+
+span {
+    line-height: 32px;
+}
+
+a.fa-play {
+    color: green;
+}
+
+a.fa-play:hover {
+    color: white;
+}
+
+.fa-times {
+    color: white;
+}
+
+input[type=file] {
+    color: white;
+    width: 130px;
+}
+#nameDateFolder{
+    margin-left: 300px;
+}
